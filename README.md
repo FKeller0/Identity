@@ -1,3 +1,3 @@
-# C---Identity
+# C# - Identity
 
-Repositório criado para armazenar meus estudos sobre Identity em C#
+Repositório criado com o intuito de armazenar meus estudos sobre Identity em C#
